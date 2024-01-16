@@ -1,0 +1,14 @@
+Package: ru.domo.cocoatop64_2.2.3_iphoneos-arm
+Name: CocoaTop64
+Version: 2.2.3
+Architecture: iphoneos-arm
+Description: Process viewer
+Maintainer: null
+Author: null
+Section: Utilities
+Depends: null
+Filename: debs/ru.domo.cocoatop64_2.2.3_iphoneos-arm.deb
+Size: 232222
+MD5sum: 2527fa61468eb5986dc2b007784d9a1a
+SHA1: 01834d4b030191ce03c375cee68b3a7d01be881b
+SHA256: 6952c1af0b9d579a0e9eaeb3b71b26865b1f0c723c0a709f24a766f200019dec
