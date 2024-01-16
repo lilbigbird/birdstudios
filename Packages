@@ -1,7 +1,7 @@
 Package: ru.domo.cocoatop64_2.2.3_iphoneos-arm
 Name: CocoaTop64
 Version: 2.2.3
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Description: Process viewer
 Maintainer: null
 Author: null
